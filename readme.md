@@ -1,0 +1,2 @@
+<h1 style="color: #5e9ca0;">TalkToTwit&nbsp;</h1>
+<h2 style="color: #2e6c80;">The main purpose of this app is to translate Twitter Accounts into a tangible query for Talkwalker. Useful for people who have a hard time with TW Syntax.</h2
