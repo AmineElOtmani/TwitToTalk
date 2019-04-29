@@ -1,6 +1,6 @@
-hamza = input("Enter twittos with comma please :")
+inputpart = input("Enter twittos with comma please :")
 x=0
-twittos = hamza.split(",")
+twittos = inputpart.split(",")
 originalstr="sourcetype:SOCIALMEDIA_TWITTER AND"
 printer2 = ""
 
